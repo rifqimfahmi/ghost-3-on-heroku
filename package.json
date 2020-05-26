@@ -11,6 +11,7 @@
   "version": "3.2.0",
   "dependencies": {
     "casper": "github:rifqimfahmi/casper-theme-custom",
+    "casper-custom": "github:rifqimfahmi/casper-theme-custom",
     "ghost": "^3.2.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.2",

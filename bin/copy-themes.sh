@@ -1,5 +1,6 @@
 themes=(
 	casper
+	casper-custom
 )
 
 for theme in "${themes[@]}"
